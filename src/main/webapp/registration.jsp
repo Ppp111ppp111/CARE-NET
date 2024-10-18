@@ -106,7 +106,7 @@ var status = document.getElementById("status").value;
 	}
 	else if(status == "invalidumobilelength"){
 		swal("Error","Mobile Number Should Be Of 10 Digita Only","error");
-	}sujal
+	}
 
 </script>
 
