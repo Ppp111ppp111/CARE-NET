@@ -54,13 +54,18 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/sujal/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar" sourcepath="C:/Users/sujal/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-sources.jar">
 		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/sujal/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-javadoc.jar!/"/>
 			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-			<attribute name="javadoc_location" value="jar:file:/C:/Users/sujal/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-javadoc.jar!/"/>
 			<attribute name="maven.groupId" value="javax.servlet"/>
 			<attribute name="maven.artifactId" value="javax.servlet-api"/>
 			<attribute name="maven.version" value="4.0.1"/>
 			<attribute name="maven.scope" value="provided"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://javaee.github.io/javaee-spec/javadocs/"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="build/classes"/>
