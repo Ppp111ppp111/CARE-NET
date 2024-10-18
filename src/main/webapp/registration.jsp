@@ -111,5 +111,4 @@ var status = document.getElementById("status").value;
 </script>
 
 </body>
-<!-- This templates was made by Colorlib (https://colorlib.com) -->
 </html>
